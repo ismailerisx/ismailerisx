@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=180&section=header&text=%C4%B0smail%20Eri%C5%9F&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%E2%80%94%20CS%20Student&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%" alt="İsmail Eriş" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=200&section=header&text=%C4%B0smail%20Eri%C5%9F&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%E2%80%94%20CS%20Student&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%" alt="İsmail Eriş" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Web+Developer;CS+Student;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Python" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=45&lines=Web+Developer;CS+Student;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+Python;Building+clean%2C+fast+web+experiences" alt="typing" />
 
 <br/>
 
@@ -27,6 +27,10 @@ const ismail = {
 };
 ```
 
+> *"Simplicity is the soul of efficiency."* — Austin Freeman
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=303030&height=1&section=header" width="100%" />
+
 ### › stack
 
 <div align="center">
@@ -45,18 +49,30 @@ const ismail = {
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=303030&height=1&section=header" width="100%" />
+
 ### › stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailerisx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailerisx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=8B949E&langs_count=6" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailerisx&theme=github_dark" width="100%" alt="profile details" />
 
-<br/>
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismailerisx&theme=github_dark" width="100%" alt="stats" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ismailerisx&theme=github_dark" width="100%" alt="most used languages" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismailerisx&theme=github_dark" width="100%" alt="repos per language" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismailerisx&theme=github_dark&utcOffset=3" width="100%" alt="productive time" /></td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com/?user=ismailerisx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=ismailerisx&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D" width="80%" alt="streak" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=303030&height=1&section=header" width="100%" />
 
 ### › contributions
 
@@ -67,5 +83,7 @@ const ismail = {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ismailerisx/ismailerisx/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
+
+<div align="center"><sub>› thanks for stopping by</sub></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:000000&height=60&section=footer" width="100%" />
