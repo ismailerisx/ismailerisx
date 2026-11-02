@@ -1,97 +1,71 @@
-<!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=200&section=header&text=Ismail%20Eris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2b2b2b&height=180&section=header&text=%C4%B0smail%20Eri%C5%9F&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%E2%80%94%20CS%20Student&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" width="100%" alt="İsmail Eriş" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ismail+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;CS+Student+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=ismailerisx&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile views" />
-
-</div>
-
-## 🙋‍♂️ About Me
-
-- 🎓 Computer Science student passionate about building things for the web
-- 💻 Web developer crafting clean, responsive, and fast interfaces
-- 🐍 Exploring Python for automation, scripting, and backend work
-- 🌱 Currently learning modern JavaScript frameworks & best practices
-- 🤝 Open to collaborating on fun open-source projects
-- ⚡ Fun fact: I debug better with coffee ☕
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Web+Developer;CS+Student;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Python" alt="typing" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=ismailerisx&label=views&color=555555&style=flat-square" alt="profile views" />
+<a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=303030&height=1&section=header" width="100%" />
 
-## 📊 GitHub Stats
+### › about
+
+```js
+const ismail = {
+  role:     "Web Developer",
+  studying: "Computer Science",
+  stack:    ["HTML", "CSS", "JavaScript", "Python"],
+  focus:    "clean, responsive, fast interfaces",
+  open_to:  "open-source collaboration",
+};
+```
+
+### › stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ismailerisx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailerisx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="skills" />
+
+</div>
+
+### › stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailerisx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailerisx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=8B949E&langs_count=6" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ismailerisx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ismailerisx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=6E7681&stroke=30363D" alt="streak" />
 
 </div>
 
-## 🏆 GitHub Trophies
+### › contributions
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ismailerisx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<!--
-  The snake image is generated by a GitHub Action (.github/workflows/snake.yml).
-  Enable it: add the workflow, give Actions "Read and write" permission
-  (Settings > Actions > General), then run it once from the Actions tab.
-  It publishes the SVGs to the "output" branch.
--->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismailerisx/ismailerisx/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailerisx/ismailerisx/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismailerisx/ismailerisx/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ismailerisx/ismailerisx/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ismailerisx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>⭐ Thanks for visiting! Have a great day ⭐</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b2b2b,100:000000&height=60&section=footer" width="100%" />
